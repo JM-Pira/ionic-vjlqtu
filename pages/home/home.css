@@ -1,0 +1,18 @@
+ion-content {
+  background: linear-gradient(to top, #ffefba, #ffffff);
+  text-align: center
+}
+
+h2{
+  color: 
+}
+
+p {
+  font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+  text-align: center
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
